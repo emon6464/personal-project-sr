@@ -21,3 +21,5 @@ http://17.17.17.2/CH17-SP/tracks-v1a1/mono.m3u8
 http://17.17.17.2/CH42-SP/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Zee Bangla
+http://17.17.17.2/CH18-SP/tracks-v1a1/mono.m3u8
